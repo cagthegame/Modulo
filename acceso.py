@@ -17,7 +17,7 @@ username = 'REALHACKRH'
 password = '593'
 
 print(amarillo)
-nick = str(input(' TU NICK BINERO PARA EL MUNDO CARDING ★RH★ : '))
+nick = str(input(' TU NICK BINERO PARA EL MUNDO CARDING ★LRXX★ : '))
 
 def restart():
 	ngulang = sys.executable
@@ -31,8 +31,8 @@ def main():
 		if pwd == password:
 			os.system("clear")
 			time.sleep(2)
-			os.system ("toilet -f big ' CrediCardRH' -F gay | lolcat")
-			print("\n\033[33;1m HOLA \033[31;1m†★",nick,"★†\033[33;1m BIENVENIDO AL MUNDO ☆REALHACK RH☆\n  ★SOMOS CALIDAD Y NO CANTIDAD★ RECUERDANOS\n")
+			os.system ("toilet -f big ' DOMINANDO ' -F gay | lolcat")
+			print("\n\033[33;1m HOLA \033[31;1m†★",nick,"★†\033[33;1m BIENVENIDO AL MUNDO ☆CRIS OFC☆\n  ★SOMOS CALIDAD Y NO CANTIDAD★ RECUERDANOS\n")
 			time.sleep(2)
 			print(rojo,'+————————————————————————————————————————————————————————————+')
 			print(amarillo)
@@ -65,7 +65,7 @@ def main():
 		else:
 			os.system("clear")
 			print("\n\033[1;31mLO SIENTO" , nick, " INGRESASTE UNA CONTRASEÑA INCORRECTA !!!\033[00m")
-			print(azul, "NO SABES LA CONTRASEÑA COMUNICATE CON @REALHACKRH593 (Telegram)")
+			print(azul, "NO SABES LA CONTRASEÑA COMUNICATE CON +52 1 559 147 8197 (WA)")
 			time.sleep(3.3)
 			os.system("clear")
 			restart()
@@ -73,7 +73,7 @@ def main():
 	else:
 		os.system("clear")
 		print("\n\033[1;31mLO SIENTO " , nick, " INGRESASTE UN USUARIO INCORRECTO !!!\033[00m")
-		print(azul, "\nSI NO SABES EL USUARIO COMUNICATE CON @REALHACKRH593")
+		print(azul, "\nSI NO SABES EL USUARIO COMUNICATE CON +52 1 559 147 8197")
 		time.sleep(3.3)
 		os.system("clear")
 		restart()
